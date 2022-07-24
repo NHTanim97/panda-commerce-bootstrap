@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#bannerPhone{
+    background-color: #d5640e;
+}
+
+#bannerTv{
+    background-color: #1E2326;
+}
+
+#bannerXbox{
+    background-color: #c27202d1;
+}
